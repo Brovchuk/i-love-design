@@ -26,7 +26,7 @@ body {
 }
 .top-anchor {
 	display: inline-block;
-	margin-top: 15vh;
+	margin-top: 10vh;
 }
 .about {
 	width: 60%;
@@ -34,7 +34,7 @@ body {
 }
 .about p {
 	color:  #464b4f;
-	font-size: 30px;
+	font-size: 26px;
 	font-weight: 400;
 	line-height: 1.4;
 }
